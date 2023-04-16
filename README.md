@@ -1,6 +1,8 @@
 # TaskList App
 The TaskList App is a simple application that allows you to add and delete tasks. The existing tasks are taken from a JSON file located within the same project. The purpose of this project is educational, aimed at teaching the basics of React.
 
+![TaskList App screenshot](public/tasklist.png)
+
 ## Features
 - Add new tasks to the list
 - Delete tasks from the list
